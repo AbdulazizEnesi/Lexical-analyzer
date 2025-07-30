@@ -1,0 +1,5 @@
+int score = 12.5;
+if (score >= 10) {
+    // Check score
+    return score;
+}$
